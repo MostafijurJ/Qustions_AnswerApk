@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_ques">
+
+        <item>What is your Name?</item>
+        <item> Which dept are you in?</item>
+        <item > What is Your University Nick Name ?</item>
+        <item > Give a brief about JUST.</item>
+        <item>Welcome?</item>
+        <item>বাংলা সাপোর্ট করে কি?</item>
+
+
+    </string-array>
+
+
+
+</resources>
